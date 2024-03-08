@@ -35,10 +35,17 @@ The CIFAR-10 dataset is loaded and preprocessed, including normalization and dat
 - Training is performed with or without data augmentation, and model checkpoints are saved periodically.
 - Learning rate adjustment and model saving are handled using callbacks.
 
+
 ## Evaluation
 
 - The trained model is evaluated on the test dataset to assess its performance.
 - Test loss and accuracy metrics are computed and printed to evaluate the model's performance.
+
+### How to Use:
+
+1. Download the ipynb file.
+2. If you have Jupyter Notebook in your local enviroment and also have good gpu then you can try to run cell locally otherwise import notebook in Kaggle.
+3. Run all cells or used the model I have given for prediction.
 
 ## Results
 
