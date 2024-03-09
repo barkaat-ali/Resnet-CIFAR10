@@ -12,8 +12,8 @@ The CIFAR-10 dataset is loaded and preprocessed, including normalization and dat
 - NumPy
 - os
   
-
-4. Monitor training progress and evaluate the model using the generated checkpoints.
+## Monitoring
+Monitor training progress and evaluate the model using the generated checkpoints.
 
 ## Configuration
 
